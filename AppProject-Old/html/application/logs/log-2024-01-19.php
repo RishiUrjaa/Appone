@@ -1,0 +1,32 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2024-01-19 00:32:10 --> Severity: Warning --> Undefined array key "HTTP_HOST" /var/www/html/application/config/config.php 3
+ERROR - 2024-01-19 02:09:54 --> Severity: Warning --> Undefined array key "HTTP_HOST" /var/www/html/application/config/config.php 3
+ERROR - 2024-01-19 06:11:11 --> Severity: Warning --> Undefined array key "HTTP_HOST" /var/www/html/application/config/config.php 3
+ERROR - 2024-01-19 09:52:23 --> Severity: Warning --> Undefined array key "HTTP_HOST" /var/www/html/application/config/config.php 3
+ERROR - 2024-01-19 14:12:37 --> Severity: Warning --> Undefined array key "HTTP_HOST" /var/www/html/application/config/config.php 3
+ERROR - 2024-01-19 15:00:21 --> Severity: Warning --> Undefined array key "HTTP_HOST" /var/www/html/application/config/config.php 3
+ERROR - 2024-01-19 15:03:08 --> Severity: Warning --> Undefined array key "certificate" /var/www/html/application/controllers/Home.php 737
+ERROR - 2024-01-19 15:03:08 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/html/application/controllers/Home.php 737
+ERROR - 2024-01-19 15:03:08 --> Severity: error --> Exception: count(): Argument #1 ($value) must be of type Countable|array, null given /var/www/html/application/controllers/Home.php 737
+ERROR - 2024-01-19 15:03:21 --> Severity: Warning --> Undefined array key "certificate" /var/www/html/application/controllers/Home.php 737
+ERROR - 2024-01-19 15:03:21 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/html/application/controllers/Home.php 737
+ERROR - 2024-01-19 15:03:21 --> Severity: error --> Exception: count(): Argument #1 ($value) must be of type Countable|array, null given /var/www/html/application/controllers/Home.php 737
+ERROR - 2024-01-19 15:03:30 --> Severity: Warning --> Undefined array key "certificate" /var/www/html/application/controllers/Home.php 737
+ERROR - 2024-01-19 15:03:30 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/html/application/controllers/Home.php 737
+ERROR - 2024-01-19 15:03:30 --> Severity: error --> Exception: count(): Argument #1 ($value) must be of type Countable|array, null given /var/www/html/application/controllers/Home.php 737
+ERROR - 2024-01-19 15:03:48 --> Severity: Warning --> Undefined array key "certificate" /var/www/html/application/controllers/Home.php 737
+ERROR - 2024-01-19 15:03:48 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/html/application/controllers/Home.php 737
+ERROR - 2024-01-19 15:03:48 --> Severity: error --> Exception: count(): Argument #1 ($value) must be of type Countable|array, null given /var/www/html/application/controllers/Home.php 737
+ERROR - 2024-01-19 15:03:52 --> Severity: Warning --> Undefined array key "certificate" /var/www/html/application/controllers/Home.php 737
+ERROR - 2024-01-19 15:03:52 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/html/application/controllers/Home.php 737
+ERROR - 2024-01-19 15:03:52 --> Severity: error --> Exception: count(): Argument #1 ($value) must be of type Countable|array, null given /var/www/html/application/controllers/Home.php 737
+ERROR - 2024-01-19 15:04:02 --> Severity: Warning --> Undefined array key "certificate" /var/www/html/application/controllers/Home.php 737
+ERROR - 2024-01-19 15:04:02 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/html/application/controllers/Home.php 737
+ERROR - 2024-01-19 15:04:02 --> Severity: error --> Exception: count(): Argument #1 ($value) must be of type Countable|array, null given /var/www/html/application/controllers/Home.php 737
+ERROR - 2024-01-19 15:04:13 --> Severity: Warning --> Undefined array key "certificate" /var/www/html/application/controllers/Home.php 737
+ERROR - 2024-01-19 15:04:13 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/html/application/controllers/Home.php 737
+ERROR - 2024-01-19 15:04:13 --> Severity: error --> Exception: count(): Argument #1 ($value) must be of type Countable|array, null given /var/www/html/application/controllers/Home.php 737
+ERROR - 2024-01-19 17:18:42 --> Severity: Warning --> Undefined array key "HTTP_HOST" /var/www/html/application/config/config.php 3
+ERROR - 2024-01-19 17:45:50 --> Query error: Data too long for column 'location' at row 1 - Invalid query: INSERT INTO `astrologers` (`name`, `email`, `phone`, `gender`, `dob`, `languages`, `experience`, `location`, `state`, `city`, `pincode`, `pan_number`, `educational_background`, `astrological_qalifications`, `bio`, `aadhar_number`, `share_percentage`, `bankName`, `expertise`, `password`, `random_password`, `real_name`, `speciality_id`, `video_link`, `country_code`, `discount`, `gst_perct`, `tds_perct`, `bank_account_no`, `ifsc_code`, `online_consult`, `online_status`, `pan_card_image`, `aadhar_card_back_image`, `academic_certificate`, `price_for_chat`, `price_for_video`, `price_for_audio`, `price_per_mint_chat`, `price_per_mint_video`, `price_per_mint_audio`, `price_per_mint_broadcast`, `price_per_mint_chat_usd`, `price_per_mint_video_usd`, `price_per_mint_audio_usd`, `videototal_minute`, `chattotal_minute`, `audiototal_minute`, `education_qualification`, `contribute_hours`, `audio_status`, `chat_status`, `video_status`, `booking`, `aadhar_card_front_image`, `status`, `type`, `image`, `certificate`, `added_on`) VALUES ('Shikhaa sharrma', 'Sharrmmaashikhhaa@gmail.com', '9711986932', 'female', '1983-03-21', 'English|Hindi', '3', 'Flat no. 44, Top Floor, HIG, Duplex, DDA, SFS, Mukherjee Apparments, Dr. MUKHERJEE NAGAR, Near Batra Cinema', '10', 'Delhi', '110009', 'BIJPS6187A', 'Bachelor in Arts from University of Delhi', 'Tarot, Numero, Vedic', 'Astrology helps you find the anwers which no one can.', '286183371181', 0, 'ICICI', '', '4af6f8c5231a0f388c1d2ab2794c6c8c', 'Gyanjeecika1', NULL, '13', NULL, '91', '0', 0, 0, '004601565769', 'ICIC0001125', 0, 0, '1705666550pan.jpg', '1705666550adh1.jpg', '17056665500academic_certificate.jpg', 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, NULL, NULL, NULL, 'Bachelor in Arts from University of Delhi', 6, 0, 0, 0, 0, '1705666550adh.jpg', 0, 1, '1705666550profile.jpg', 'default.png', '2024-01-19 17:45:50')
+ERROR - 2024-01-19 22:08:27 --> Severity: Warning --> Undefined array key "HTTP_HOST" /var/www/html/application/config/config.php 3

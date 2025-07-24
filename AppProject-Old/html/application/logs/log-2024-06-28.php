@@ -1,0 +1,49 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2024-06-28 00:52:35 --> Severity: Warning --> Undefined array key "HTTP_HOST" /var/www/html/application/config/config.php 3
+ERROR - 2024-06-28 02:39:54 --> Severity: Warning --> Undefined array key "HTTP_HOST" /var/www/html/application/config/config.php 3
+ERROR - 2024-06-28 05:05:58 --> Severity: Warning --> Undefined array key "certificate" /var/www/html/application/controllers/Home.php 745
+ERROR - 2024-06-28 05:05:58 --> Severity: Warning --> Trying to access array offset on value of type null /var/www/html/application/controllers/Home.php 745
+ERROR - 2024-06-28 05:05:58 --> Severity: error --> Exception: count(): Argument #1 ($value) must be of type Countable|array, null given /var/www/html/application/controllers/Home.php 745
+ERROR - 2024-06-28 10:19:04 --> Severity: Warning --> Undefined array key "HTTP_HOST" /var/www/html/application/config/config.php 3
+ERROR - 2024-06-28 13:40:04 --> Severity: Warning --> Undefined array key "HTTP_HOST" /var/www/html/application/config/config.php 3
+ERROR - 2024-06-28 15:12:26 --> Severity: Warning --> Undefined array key "HTTP_HOST" /var/www/html/application/config/config.php 3
+ERROR - 2024-06-28 15:12:27 --> Severity: Warning --> Undefined array key "HTTP_HOST" /var/www/html/application/config/config.php 3
+ERROR - 2024-06-28 15:12:28 --> Severity: Warning --> Undefined array key "HTTP_HOST" /var/www/html/application/config/config.php 3
+ERROR - 2024-06-28 15:12:28 --> Severity: Warning --> Undefined array key "HTTP_HOST" /var/www/html/application/config/config.php 3
+ERROR - 2024-06-28 15:12:29 --> Severity: Warning --> Undefined array key "HTTP_HOST" /var/www/html/application/config/config.php 3
+ERROR - 2024-06-28 15:12:30 --> Severity: Warning --> Undefined array key "HTTP_HOST" /var/www/html/application/config/config.php 3
+ERROR - 2024-06-28 15:12:39 --> Severity: Warning --> Undefined array key "HTTP_HOST" /var/www/html/application/config/config.php 3
+ERROR - 2024-06-28 15:12:39 --> Severity: Warning --> Undefined array key "HTTP_HOST" /var/www/html/application/config/config.php 3
+ERROR - 2024-06-28 15:12:40 --> Severity: Warning --> Undefined array key "HTTP_HOST" /var/www/html/application/config/config.php 3
+ERROR - 2024-06-28 15:12:41 --> Severity: Warning --> Undefined array key "HTTP_HOST" /var/www/html/application/config/config.php 3
+ERROR - 2024-06-28 15:12:42 --> Severity: Warning --> Undefined array key "HTTP_HOST" /var/www/html/application/config/config.php 3
+ERROR - 2024-06-28 15:12:43 --> Severity: Warning --> Undefined array key "HTTP_HOST" /var/www/html/application/config/config.php 3
+ERROR - 2024-06-28 15:12:43 --> Severity: Warning --> Undefined array key "HTTP_HOST" /var/www/html/application/config/config.php 3
+ERROR - 2024-06-28 15:12:45 --> Severity: Warning --> Undefined array key "HTTP_HOST" /var/www/html/application/config/config.php 3
+ERROR - 2024-06-28 15:12:46 --> Severity: Warning --> Undefined array key "HTTP_HOST" /var/www/html/application/config/config.php 3
+ERROR - 2024-06-28 15:12:47 --> Severity: Warning --> Undefined array key "HTTP_HOST" /var/www/html/application/config/config.php 3
+ERROR - 2024-06-28 15:12:48 --> Severity: Warning --> Undefined array key "HTTP_HOST" /var/www/html/application/config/config.php 3
+ERROR - 2024-06-28 15:12:49 --> Severity: Warning --> Undefined array key "HTTP_HOST" /var/www/html/application/config/config.php 3
+ERROR - 2024-06-28 15:12:50 --> Severity: Warning --> Undefined array key "HTTP_HOST" /var/www/html/application/config/config.php 3
+ERROR - 2024-06-28 15:12:50 --> Severity: Warning --> Undefined array key "HTTP_HOST" /var/www/html/application/config/config.php 3
+ERROR - 2024-06-28 15:12:52 --> Severity: Warning --> Undefined array key "HTTP_HOST" /var/www/html/application/config/config.php 3
+ERROR - 2024-06-28 15:12:53 --> Severity: Warning --> Undefined array key "HTTP_HOST" /var/www/html/application/config/config.php 3
+ERROR - 2024-06-28 15:12:54 --> Severity: Warning --> Undefined array key "HTTP_HOST" /var/www/html/application/config/config.php 3
+ERROR - 2024-06-28 15:12:55 --> Severity: Warning --> Undefined array key "HTTP_HOST" /var/www/html/application/config/config.php 3
+ERROR - 2024-06-28 15:12:56 --> Severity: Warning --> Undefined array key "HTTP_HOST" /var/www/html/application/config/config.php 3
+ERROR - 2024-06-28 15:12:57 --> Severity: Warning --> Undefined array key "HTTP_HOST" /var/www/html/application/config/config.php 3
+ERROR - 2024-06-28 15:12:58 --> Severity: Warning --> Undefined array key "HTTP_HOST" /var/www/html/application/config/config.php 3
+ERROR - 2024-06-28 15:13:00 --> Severity: Warning --> Undefined array key "HTTP_HOST" /var/www/html/application/config/config.php 3
+ERROR - 2024-06-28 15:13:01 --> Severity: Warning --> Undefined array key "HTTP_HOST" /var/www/html/application/config/config.php 3
+ERROR - 2024-06-28 15:13:04 --> Severity: Warning --> Undefined array key "HTTP_HOST" /var/www/html/application/config/config.php 3
+ERROR - 2024-06-28 15:13:12 --> Severity: Warning --> Undefined array key "HTTP_HOST" /var/www/html/application/config/config.php 3
+ERROR - 2024-06-28 15:13:19 --> Severity: Warning --> Undefined array key "HTTP_HOST" /var/www/html/application/config/config.php 3
+ERROR - 2024-06-28 15:13:27 --> Severity: Warning --> Undefined array key "HTTP_HOST" /var/www/html/application/config/config.php 3
+ERROR - 2024-06-28 15:13:28 --> Severity: Warning --> Undefined array key "HTTP_HOST" /var/www/html/application/config/config.php 3
+ERROR - 2024-06-28 15:13:28 --> Severity: Warning --> Undefined array key "HTTP_HOST" /var/www/html/application/config/config.php 3
+ERROR - 2024-06-28 15:13:29 --> Severity: Warning --> Undefined array key "HTTP_HOST" /var/www/html/application/config/config.php 3
+ERROR - 2024-06-28 15:13:30 --> Severity: Warning --> Undefined array key "HTTP_HOST" /var/www/html/application/config/config.php 3
+ERROR - 2024-06-28 15:13:31 --> Severity: Warning --> Undefined array key "HTTP_HOST" /var/www/html/application/config/config.php 3
+ERROR - 2024-06-28 17:02:23 --> Severity: Warning --> Undefined array key "HTTP_HOST" /var/www/html/application/config/config.php 3
+ERROR - 2024-06-28 20:49:52 --> Severity: Warning --> Undefined array key "HTTP_HOST" /var/www/html/application/config/config.php 3

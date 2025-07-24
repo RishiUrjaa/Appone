@@ -1,0 +1,449 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+
+<head>
+   <meta charset="UTF-8" />
+   <meta name="viewport" content="width=device-width, initial-scale=1" />
+   <meta name="description" content="" />
+   <meta name="keywords" content="" />
+   <meta name="author" content="" />
+
+   <!-- Site Title -->
+   <title>Astro Urjaa</title>
+   <!-- Site favicon -->
+   <link rel="shortcut icon" href="<?php echo base_url(); ?>assets/images/favicon.png" />
+
+   <!-- Swiper js -->
+   <link rel="stylesheet" href="<?php echo base_url(); ?>assets/css/swiper-bundle.min.css" type="text/css" />
+
+   <!--Material Icon -->
+   <link rel="stylesheet" type="text/css" href="<?php echo base_url(); ?>assets/css/materialdesignicons.min.css" />
+
+   <link rel="stylesheet" href="<?php echo base_url(); ?>assets/css/bootstrap.min.css" type="text/css" />
+   <link rel="stylesheet" type="text/css" href="<?php echo base_url(); ?>assets/css/style.css" />
+
+   <link href="<?php echo base_url(); ?>assets/css/select2.min.css" rel="stylesheet" />
+
+</head>
+
+<body data-bs-spy="scroll" data-bs-target=".navbar" data-bs-offset="60">
+   <!--Navbar Start-->
+   <nav class="navbar navbar-expand-lg fixed-top navbar-custom sticky-dark" id="navbar-sticky">
+      <div class="container">
+         <!-- LOGO -->
+         <a class="logo text-uppercase nav_logo" href="<?php echo base_url(); ?>">
+         <img src="<?php echo base_url(); ?>assets/images/logo1.png" alt="" />
+         </a>
+         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+            <i class="mdi mdi-menu"></i>
+         </button>
+         <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav mx-auto navbar-center" id="mySidenav">
+               <li class="nav-item">
+                  <a href="<?php echo base_url(); ?>#home" class="nav-link">Home</a>
+               </li>
+               <!-- <li class="nav-item">
+                  <a href="<?php echo base_url(); ?>#how" class="nav-link">How does it work</a>
+               </li>
+               <li class="nav-item">
+                  <a href="<?php echo base_url(); ?>#screenshot" class="nav-link">Screenshots</a>
+               </li> -->
+               <li class="nav-item">
+                  <a href="<?php echo base_url(); ?>#about" class="nav-link">About</a>
+               </li>
+               <li class="nav-item">
+                  <a href="<?php echo base_url(); ?>#contact" class="nav-link">Contact Us</a>
+               </li>
+
+            </ul>
+
+            <ul class="navbar-nav navbar-center">
+               <li class="nav-item">
+                  <a href="<?php echo base_url('home/astrologer_registration'); ?>" class="btn btn-sm nav-btn">Astrologer Register</a>
+               </li>
+            </ul>
+
+         </div>
+      </div>
+   </nav>
+   <!-- Navbar End -->
+
+   <section class="section features-bg" style="background-color: #f8f9fa;">
+      <div class="container">
+         <div class="row align-items-center">
+            <div class="col-lg-12">
+               <div class="breadcrumb-wrap text-center">
+                  <div class="breadcrumb-title">
+                     <h2>Privacy Policy</h2>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+   </section>
+
+
+   <!-- contact start -->
+   <section class="section astro1">
+      <div class="container">
+         <div class="row align-items-center">
+            <div class="col-lg-12">
+
+        
+            <div class="policy">
+
+<h4>Privacy Policy</h4>
+
+
+<p><span style="font-weight: 400;">Effective Date: 25-06-2023</span></p>
+<p><span style="font-weight: 400;">Last Updated: 25-06-2023</span></p><br>
+<p><span style="font-weight: 400;">We at </span><span style="font-weight: 400;">Astrourjaa
+        Technology Pvt. Ltd.</span> <strong>(&ldquo;Company&rdquo;, &ldquo;we&rdquo;,
+        &ldquo;our&rdquo;, or &ldquo;us&rdquo;)</strong><span style="font-weight: 400;">
+        know you care about how your personal information is used and shared, and we take
+        your privacy seriously. This Statement explains our policies and practices and
+        applies to information collection and use while you are visiting and
+        using&nbsp;</span><span style="font-weight: 400;">AstroUrjaa</span><span
+        style="font-weight: 400;"> (the "</span><strong>App</strong><span
+        style="font-weight: 400;">").&nbsp;</span></p><br>
+<p><span style="font-weight: 400;">Please read the following to learn more about our Privacy
+        Policy.</span><strong> By using or accessing the Services in any manner, you
+        acknowledge that you accept the practices and policies outlined in this Privacy
+        Policy, and you hereby consent that we will collect, use, and share your information
+        in the following ways.</strong></p>
+<p><span style="font-weight: 400;">Remember that your use of the App, at all times, is
+        subject to the </span><span style="font-weight: 400;">Term of Use</span><span
+        style="font-weight: 400;">, which incorporates this Privacy Policy.&nbsp; Any terms
+        we use in this Privacy Policy without defining them have the definitions given to
+        them in the Term of Use.</span><strong>&nbsp;</strong></p>
+<p>&nbsp;</p>
+<p><strong>What does this Privacy Policy cover?</strong></p>
+<p><span style="font-weight: 400;">This Privacy Policy covers our treatment of personally
+        identifiable information ("Personal Information") that we gather when you are
+        accessing or using our Services, but not to the practices of companies we
+        don&rsquo;t own or control, or people that we don&rsquo;t manage.&nbsp; Our Privacy
+        Policy shall address the following:</span></p>
+<p>&nbsp;</p>
+<ul>
+    <li aria-level="1"><strong><span style="font-weight: 400;">What information do we
+                collect?</span></strong></li>
+</ul>
+<ul>
+    <li aria-level="1"><span style="font-weight: 400;">&hellip;&hellip; and Why?</span></li>
+</ul>
+<ul>
+    <li aria-level="1"><span style="font-weight: 400;">Will we Share Your
+            Information?</span></li>
+</ul>
+<ul>
+    <li aria-level="1"><span style="font-weight: 400;">Will we ever Change our Privacy
+            Policy?</span></li>
+</ul>
+<ul>
+    <li aria-level="1"><span style="font-weight: 400;">Business Transfers</span></li>
+</ul>
+<ul>
+    <li aria-level="1"><span style="font-weight: 400;">Our and Others Protection</span></li>
+</ul>
+<ul>
+    <li aria-level="1"><span style="font-weight: 400;">Is Personal Information about me
+            secure?</span></li>
+</ul>
+<ul>
+    <li aria-level="1"><span style="font-weight: 400;">What Personal Information can I
+            access?</span></li>
+</ul>
+<ul>
+    <li aria-level="1"><span style="font-weight: 400;">What choices do I have?</span></li>
+</ul>
+<ul>
+    <li aria-level="1"><span style="font-weight: 400;">European Union Users</span></li>
+</ul>
+<ul>
+    <li aria-level="1"><span style="font-weight: 400;">Cross Border Transferring of
+            Data</span></li>
+</ul>
+<ul>
+    <li aria-level="1"><span style="font-weight: 400;">Consent to Data Processing in United
+            States</span></li>
+</ul>
+<ul>
+    <li aria-level="1"><span style="font-weight: 400;">California Privacy Rights</span></li>
+</ul>
+<ul>
+    <li aria-level="1"><span style="font-weight: 400;">Questions about this Policy</span>
+    </li>
+</ul>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<ol>
+    <li style="font-weight: 400;" aria-level="1"><strong>What information do we
+            collect?</strong></li>
+</ol>
+<p><span style="font-weight: 400;">We gather various types of Personal Information from our
+        users, which includes information you provide us with, information collected
+        automatically, and information collected from other parties.</span></p>
+<br>
+<ol>
+    <li style="font-weight: 400;" aria-level="2"><strong>Information You Provide to
+            Us:</strong></li>
+</ol>
+<p><span style="font-weight: 400;">We receive and store any information you knowingly
+        provide to us.&nbsp; For example, through the registration process we may collect,
+        without limitation, Personal Information such as</span></p>
+<ol>
+    <li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">Mobile
+            number</span></li>
+    <li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">Truecaller
+            ID and related information.</span></li>
+</ol>
+<p><span style="font-weight: 400;">Certain information may be required to register with us
+        or to take advantage of some of our features.&nbsp;We may communicate with you if
+        you&rsquo;ve provided us with the means to do so. This confirmation helps us make
+        our communications with you more efficient and improve our Services and offer new
+        services. If you do not want to receive communications from us, you could turn off
+        the notification in the settings on your device and unsubscribe by clicking the
+        unsubscribe link at the end of the email from us.&nbsp;&nbsp;</span></p>
+<p><span style="font-weight: 400;">Further during consultations following personal
+        information may be collected by the Consultant, for the sake of brevity during this
+        policy, this information would be referred to as private information and the
+        information collected during registration would be referred to as personal
+        information.</span></p>
+<ol>
+    <li style="font-weight: 400;" aria-level="3"><span style="font-weight: 400;">Name</span>
+    </li>
+    <li style="font-weight: 400;" aria-level="3"><span
+            style="font-weight: 400;">Gender</span></li>
+    <li style="font-weight: 400;" aria-level="3"><span style="font-weight: 400;">Date of
+            Birth</span></li>
+    <li style="font-weight: 400;" aria-level="3"><span style="font-weight: 400;">Place of
+            Birth like Country, State, City, Village etc.</span></li>
+    <li style="font-weight: 400;" aria-level="3"><span style="font-weight: 400;">Time of
+            birth</span></li>
+</ol>
+<p>&nbsp;</p>
+<ul>
+    <li aria-level="2"><strong>Information Collected Automatically</strong></li>
+</ul>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Whenever you interact with our Services, we automatically
+        receive and record information on our server logs from your device, which may
+        include:</span></p>
+<p>&nbsp;</p>
+<ul>
+    <li aria-level="3"><strong>Information collected through Cookies:</strong></li>
+</ul>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">&ldquo;Cookies&rdquo; are identifiers we transfer to your
+        device that allow us to recognize your device and tell us how and when the App and
+        our Services are visited and by how many people.&nbsp; You may be able to change the
+        preferences on your device to prevent or limit your device&rsquo;s acceptance of
+        cookies, but this may prevent you from taking advantage of some of our features or
+        use the App completely.&nbsp; Also, if you click on a link to a third-party website
+        or service, such third party may also transmit cookies to you.&nbsp; Again, this
+        Privacy Policy does not cover the use of cookies by any third parties, and we are
+        not responsible for their privacy policies and practices. Please be aware that
+        cookies placed by third parties may continue to track your activities online even
+        after you have left our Services, and those third parties may not honour &ldquo;Do
+        Not Track&rdquo; requests you have set using your device.</span></p>
+<ol>
+    <li style="font-weight: 400;" aria-level="3"><span style="font-weight: 400;">In
+            addition, as set forth in the Terms of Use, we do not knowingly collect or
+            solicit personal or private information from anyone under the age of 18 without
+            the supervision of a guardian or parent. If you are under 18, please do not
+            attempt to register for the Services or send any personal information about
+            yourself to us without supervision of a guardian or parent. If we learn that we
+            have collected personal information from a child under age 18 without
+            supervision of a guardian or parent, we will delete that information as quickly
+            as possible. If you believe that a child under 18 without supervision of a
+            guardian or parent may have provided us personal information, please contact us
+            at </span><a href="mailto:contactus@astrourjaa.com"><span
+                style="font-weight: 400;">contactus@astrourjaa.com</span></a><span
+            style="font-weight: 400;">.&nbsp;</span></li>
+</ol>
+<br>
+<ol>
+    <li style="font-weight: 400;" aria-level="1"><strong>&hellip; and Why?</strong></li>
+</ol>
+<p><span style="font-weight: 400;">We use this Personal Information internally in connection
+        with our Services, including:&nbsp;</span></p>
+<ul>
+    <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">to
+            personalize, provide</span> <span style="font-weight: 400;">for and </span><span
+            style="font-weight: 400;">improve our Services,&nbsp;</span></li>
+</ul>
+<p><span style="font-weight: 400;">We may use the data collected through Cookies to improve
+        the Services - for example, this data can tell us how often users use a particular
+        feature of the App, and we can use that knowledge to make the App interesting to as
+        many users as possible.&nbsp; </span><span style="font-weight: 400;">We may also use
+        this information to track and highlight for you, any part of the App that you may
+        have used before, and related service on the App.</span></p>
+<p>&nbsp;</p>
+<ol>
+    <li style="font-weight: 400;" aria-level="1"><strong>Will we ever change this Privacy
+            Policy?</strong></li>
+</ol>
+<p><span style="font-weight: 400;">We&rsquo;re constantly trying to improve our Services, so
+        we may need to change this Privacy Policy from time to time as well, but we will
+        alert you to changes by sending notification on our App.&nbsp;</span></p>
+<p>&nbsp;</p>
+<ol>
+    <li style="font-weight: 400;" aria-level="1"><strong>Our and Others
+            Protection:</strong><span style="font-weight: 400;">&nbsp;</span></li>
+</ol>
+<p><span style="font-weight: 400;">We reserve the right to access, read, preserve, and
+        disclose any information that we believe is necessary to comply with law or court
+        order; enforce or apply our Terms of Use&nbsp;and other agreements; or protect our
+        rights, property, or safety.&nbsp;</span></p>
+<br>
+<ol>
+    <li style="font-weight: 400;" aria-level="1"><strong>Is Personal Information about me
+            secure?</strong></li>
+</ol>
+<p><span style="font-weight: 400;">Your account is only accessible through your device and
+        once logged out can only be logged in by a one-time password. You must prevent
+        unauthorized access to your account and Personal Information by selecting and
+        protecting your device.&nbsp;</span></p>
+<p><span style="font-weight: 400;">We endeavour to protect the privacy of your account and
+        other Personal Information we hold in our records, but unfortunately, we cannot
+        guarantee complete security.&nbsp; Unauthorized entry or use, failure of the
+        Services, or other factors may compromise the security of user information at any
+        time.</span></p>
+<br>
+<ol>
+    <li style="font-weight: 400;" aria-level="1"><strong>What Personal Information can I
+            access?</strong></li>
+</ol>
+<p><span style="font-weight: 400;">During your registration we only receive your mobile
+        number or truecaller ID. In case of change of either of this information would mean
+        creation of a new account.&nbsp;</span></p>
+<p><span style="font-weight: 400;">Any private information is not accessible to you as it is
+        not stored as part of your account details.</span></p><br>
+<ol>
+    <li style="font-weight: 400;" aria-level="1"><strong>What choices do I have?</strong>
+    </li>
+</ol>
+<p><span style="font-weight: 400;">You can always opt not to disclose information to us, but
+        keep in mind some information may be needed to register with us or to take advantage
+        of the consultation services.</span></p>
+<p><span style="font-weight: 400;">If you delete your account, some information may remain
+        in our records after such deletion. We may use any aggregated data derived from or
+        incorporating your Personal Information after you update or delete it, but not in a
+        manner that would identify you personally.&nbsp;</span></p>
+<p>&nbsp;</p>
+<ol>
+    <li style="font-weight: 400;" aria-level="1"><strong>What if I have questions about this
+            policy?</strong></li>
+</ol>
+<p><span style="font-weight: 400;">If you have any questions or concerns regarding our
+        privacy policies, please send us a detailed message to </span><a
+        href="mailto:contactus@astrourjaa.com"><span
+            style="font-weight: 400;">contactus@astrourjaa.com</span></a><span
+        style="font-weight: 400;">,</span><span style="font-weight: 400;">&nbsp;</span><span
+        style="font-weight: 400;">and we will try to resolve your concerns.</span></p>
+
+</div>
+
+            </div>
+         </div>
+      </div>
+   </section>
+   <!-- contact end -->
+
+   <!-- footer & cta start -->
+
+   <section class="footer bg-dark">
+            <div class="container">
+            <div class="row">
+        <div class="col-sm-6 col-md-3">
+            <div class="footer-logo mb-3">
+            <a href="#">
+        <img src="<?php echo base_url(); ?>assets/images/logo.svg" alt="">
+                </a>
+                </div>
+                <p> Astrourjaa is created by <b>T.K.G. ASTRO PRIVATE LIMITED</b> one of the best astrology website for online Astrology consultation, which aims to provide genuine solution to its customers.</p>
+
+         
+                    </div>
+
+            <div class="col-sm-6 col-md-3">
+        <h5 class="fs-22 mb-3 fw-semibold text-dark">Useful Links</h5>
+            <ul class="list-unstyled footer-nav">
+        <li><a href="<?php echo base_url('home/astrologer_registration'); ?>" class="footer-link">Astrologer Registration</a></li>
+        <li><a href="<?php echo base_url('home/terms'); ?>" class="footer-link">Terms & Condition</a></li>
+        <li><a href="<?php echo base_url('home/privacy'); ?>" class="footer-link">Privacy Policy</a></li>
+        <li><a href="<?php echo base_url('home/refund'); ?>" class="footer-link">Refund & Cancellation</a></li>
+        <!-- <li><a href="#" class="footer-link">Refund & Cancellation</a></li>
+        <li><a href="#" class="footer-link">Support</a></li> -->
+                        </ul>
+                        </div>
+
+            <div class="col-sm-6 col-md-3">
+        <h5 class="fs-22 mb-3 fw-semibold text-dark">Contact Us</h5>
+            <ul class="list-unstyled footer-nav">
+        <li><a href="#" class="footer-link">(+91) 9119321597</a></li>
+        <li><a href="#" class="footer-link">tushar@astrourjaa.com</a></li>
+                        </ul>
+                        </div>
+
+            <div class="col-sm-6 col-md-3">
+        <h5 class="fs-22 mb-3 fw-semibold text-dark">Follow Us</h5>
+             <ul class="list-inline mt-2">
+            <li class="list-inline-item">
+            <a href="https://www.facebook.com/profile.php?id=astrourjaa" class="footer-social-icon"><i class="mdi mdi-facebook"></i></a>
+                    </li>
+
+            <li class="list-inline-item">
+        <a href="https://twitter.com/astrourjaa" class="footer-social-icon"><i class="mdi mdi-twitter"></i></a>
+                    </li>
+
+            <li class="list-inline-item">
+        <a href="https://www.linkedin.com/company/astrourjaa" class="footer-social-icon"><i class="mdi mdi-linkedin"></i></a>
+                    </li>
+
+             <li class="list-inline-item">
+        <a href="https://www.instagram.com/astro_urjaa/?igsh=dHpnaTU4ODZuZm8x" class="footer-social-icon"><i class="mdi mdi-instagram"></i></a>
+                    </li>
+                    </ul>
+                    </div>             
+                    </div>
+                    </div>
+                   </section>
+
+        <!-- footer & cta start -->
+       
+        <div class="footer-tagline">
+            <div class="container">
+                <div class="row justify-content-between py-3">
+                    <div class="col-md-6">
+                        <p class="text-dark opacity-75 mb-0 fs-14 fw-bold"><script>document.write(new Date().getFullYear())</script> © Astro Urjaa</p>
+                    </div>
+                    <div class="col-md-6 text-md-end">
+                        <a href="<?php echo base_url('home/terms'); ?>" class="text-dark opacity-75 fs-14 fw-bold">Terms & Conditions</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- footer & cta end -->
+   <!-- footer & cta end -->
+
+   <!-- Back to top -->
+   <a href="#" onclick="topFunction()" class="back-to-top-btn btn btn-gradient-primary" id="back-to-top"><i class="mdi mdi-chevron-up"></i></a>
+
+
+
+   <!-- javascript -->
+   <script src="<?php echo base_url(); ?>assets/js/bootstrap.bundle.min.js"></script>
+   <!-- counter -->
+   <script src="<?php echo base_url(); ?>assets/js/counter.init.js"></script>
+   <!-- swiper -->
+   <script src="<?php echo base_url(); ?>assets/js/swiper-bundle.min.js"></script>
+   <script src="<?php echo base_url(); ?>assets/js/swiper.js"></script>
+   <script src="<?php echo base_url(); ?>assets/js/app.js"></script>
+   <script src="<?php echo base_url(); ?>assets/js/jquery.min.js"></script>
+   <script src="<?php echo base_url(); ?>assets/js/select2.min.js" type="text/javascript"></script>
+
+
+</body>
+
+</html>

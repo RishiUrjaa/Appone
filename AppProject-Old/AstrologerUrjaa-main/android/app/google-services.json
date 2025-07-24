@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "517296153273",
+    "project_id": "astrourzaa",
+    "storage_bucket": "astrourzaa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517296153273:android:354f27f89b353d49ddf168",
+        "android_client_info": {
+          "package_name": "com.astrourzaa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjbtaUU2BJ79780vmfBibc2lfUx2YWUxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517296153273:android:b64c1f2aade43feaddf168",
+        "android_client_info": {
+          "package_name": "com.astrourzaaa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjbtaUU2BJ79780vmfBibc2lfUx2YWUxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
