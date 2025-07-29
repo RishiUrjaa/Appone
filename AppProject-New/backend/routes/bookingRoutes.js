@@ -112,5 +112,4 @@ const bookingRoutes = async (req, res, path, method) => {
   }
 };
 
-// ✅ Correct Export: make sure you are exporting the function
 module.exports = bookingRoutes;

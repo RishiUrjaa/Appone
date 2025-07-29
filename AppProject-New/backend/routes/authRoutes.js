@@ -8,7 +8,7 @@ const authRoutes = async (req, res, path, method) => {
       case '/signin':
         if (method === 'POST') {
           // SignInApi logic
-          console.log('REQ BODY (signin):', req.body); // helpful debug
+          console.log('REQ BODY (signin):', req.body); 
           sendResponse(res, 200, {
             success: true,
             message: 'Signin API',
@@ -91,7 +91,7 @@ const authRoutes = async (req, res, path, method) => {
         });
     }
   } catch (err) {
-    console.error('❌ Error in authRoutes:', err);
+    console.error(' Error in authRoutes:', err);
     sendResponse(res, 500, {
       success: false,
       message: 'Internal server error'

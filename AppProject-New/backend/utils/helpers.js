@@ -16,16 +16,16 @@ const parseBody = (req) => {
     req.on('end', () => {
       try {
         if (!body) {
-          resolve({}); // ✅ empty body → return empty object
+          resolve({}); 
         } else if (
           req.headers['content-type'] &&
           req.headers['content-type'].includes('application/json')
         ) {
-          // ✅ try JSON.parse safely
+          // try JSON.parse safely
           try {
             resolve(JSON.parse(body));
           } catch (jsonErr) {
-            console.error('❌ Invalid JSON:', jsonErr.message);
+            console.error(' Invalid JSON:', jsonErr.message);
             resolve({}); // fallback to empty object
           }
         } else {
@@ -33,13 +33,13 @@ const parseBody = (req) => {
           resolve(querystring.parse(body));
         }
       } catch (err) {
-        console.error('❌ Error parsing body:', err.message);
+        console.error(' Error parsing body:', err.message);
         resolve({}); // fallback
       }
     });
 
     req.on('error', (err) => {
-      console.error('❌ Request error while reading body:', err.message);
+      console.error(' Request error while reading body:', err.message);
       resolve({}); // fallback on stream error
     });
   });

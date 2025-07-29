@@ -17,8 +17,8 @@ const broadcastRoutes = require('./routes/broadcastRoutes');
 const supportRoutes = require('./routes/supportRoutes');
 
 // Log to check route imports
-console.log('🔍 typeof supportRoutes:', typeof supportRoutes);
-console.log('🔍 supportRoutes content:', supportRoutes);
+// console.log('🔍 typeof supportRoutes:', typeof supportRoutes);
+// console.log('🔍 supportRoutes content:', supportRoutes);
 
 const server = http.createServer(async (req, res) => {
   // CORS Headers
@@ -45,7 +45,7 @@ const server = http.createServer(async (req, res) => {
     // Logs
     console.log(`➡️ ${method} ${path}`);
     if (method !== 'GET') {
-      console.log('📦 Request Body:', body);
+      console.log(' Request Body:', body);
     }
 
     // Health Check
@@ -86,7 +86,7 @@ const server = http.createServer(async (req, res) => {
       });
     }
   } catch (error) {
-    console.error('❌ Server Error:', error);
+    console.error(' Server Error:', error);
     sendResponse(res, 500, {
       success: false,
       message: 'Internal server error',
